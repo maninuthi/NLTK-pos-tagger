@@ -6,7 +6,7 @@ test_data = indian.sents()
 
 data_m = []
 test_data_m = []
-with open('/home/mani/Downloads/all_tempt') as f:
+with open('IIIT_data') as f:
     fh = f.readlines()
     lis = []
     lis1 = []
