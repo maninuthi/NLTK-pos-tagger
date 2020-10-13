@@ -45,5 +45,4 @@ taggers is shown below.
 * 4. 'hmm', 'crf', 'tnt'
 
 
-![Results]
-(https://github.com/maninuthi/NLTK-pos-tagger/blob/master/results.png)
+![Results](results.png)
