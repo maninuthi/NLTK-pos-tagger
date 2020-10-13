@@ -44,4 +44,5 @@ taggers is shown below.
 * 3. 'perceptron', 'crf', 'tnt'
 * 4. 'hmm', 'crf', 'tnt'
 
-
+![Results]
+(https://github.com/maninuthi/NLTK-pos-tagger/blob/master/results.png)
